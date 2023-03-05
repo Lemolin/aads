@@ -11,7 +11,6 @@ public:
     Player(string name);
     virtual string getName();
     virtual char makeMove();
-    string name;
 };
 
 #endif
